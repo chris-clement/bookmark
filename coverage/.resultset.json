@@ -1,8 +1,10 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/app.rb": {
+      "/Users/rikytraveller/Projects/bookmark/app.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
           1,
@@ -25,30 +27,23 @@
           null
         ]
       },
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/lib/bookmark.rb": {
+      "/Users/rikytraveller/Projects/bookmark/lib/bookmark.rb": {
         "lines": [
+          null,
+          null,
           1,
           1,
-          2,
+          3,
           null,
           null
         ]
       },
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/spec/bookmark_spec.rb": {
+      "/Users/rikytraveller/Projects/bookmark/spec/bookmark_spec.rb": {
         "lines": [
-          1,
+          null,
           null,
           1,
-          1,
-          1,
           null,
-          null
-        ]
-      },
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/spec/features/view_bookmarks_spec.rb": {
-        "lines": [
-          1,
-          1,
           1,
           1,
           1,
@@ -56,9 +51,37 @@
           null
         ]
       },
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/spec/features/visit_homepage_spec.rb": {
+      "/Users/rikytraveller/Projects/bookmark/spec/features/view_bookmarks_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/rikytraveller/Projects/bookmark/spec/features/visit_homepage_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/rikytraveller/Projects/bookmark/spec/unit/bookmark_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
           1,
           1,
           1,
@@ -67,6 +90,6 @@
         ]
       }
     },
-    "timestamp": 1638803857
+    "timestamp": 1638813792
   }
 }
