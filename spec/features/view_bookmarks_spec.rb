@@ -4,6 +4,6 @@ feature 'View bookmarks' do
   scenario 'It returns a list of bookmarks' do
     visit '/'
     click_link 'View Bookmarks'
-    expect(page).to have_content 'bbc.co.uk, facebook.com, twitter.com'
+    expect(page).to have_content "http://www.makersacademy.com/"
   end
 end
