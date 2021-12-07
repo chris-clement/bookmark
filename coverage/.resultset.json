@@ -9,6 +9,7 @@
           1,
           1,
           null,
+          null,
           1,
           1,
           0,
@@ -23,7 +24,7 @@
           1,
           null,
           null,
-          1,
+          null,
           null
         ]
       },
@@ -32,26 +33,12 @@
           null,
           1,
           null,
+          null,
           1,
           1,
           4,
           4,
-          20,
-          null,
-          null
-        ]
-      },
-      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/spec/bookmark_spec.rb": {
-        "lines": [
-          null,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
+          28,
           null,
           null
         ]
@@ -80,8 +67,23 @@
           null,
           null
         ]
+      },
+      "/Users/chrisclement/Desktop/Projects/Makers/Week4/Bookmark/spec/unit/bookmark_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1638869393
+    "timestamp": 1638871556
   }
 }
